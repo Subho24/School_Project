@@ -7,7 +7,7 @@ export const data2 = {
         },
         {
             studentId: 2,
-            studentName: 'Alexander J.', 
+            studentName: 'Alexander Johansson', 
             studentClass: 'IT21'
         },
     ],
